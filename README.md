@@ -6,10 +6,10 @@
 - 📫 How to reach me: tsyuille@gmail.com
 - 😄 Pronouns: she/her
 
-![TaVon's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsyuille&show_icons=true&theme=dark)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsyuille&layout=compact)](https://github.com/tsyuille/github-readme-stats)
+
+
+![TaVon's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsyuille&show_icons=true&theme=dark)
 
 
 <!--
