@@ -48,20 +48,19 @@ Hi, I'm <strong>TaVon</strong>. A creative, full-stack software engineer with a 
 </div> 
   
 <td width="50%">
-<h3 align="center" color="white">The 918 Collective</h3>
+<h3 align="center" color="white">Tea Lovers Unite</h3>
 <div align="center" >  
-<a href="https://the918collective.netlify.app/">
-<img src="https://user-images.githubusercontent.com/24927444/168486668-aef97796-5d81-4ebd-9296-26d6898fc320.png" alt="918 Collective Homepage"
-     width="100%" />
+<a href="https://ilovetea.herokuapp.com/">
+<img width="100%" alt="Tea Lovers Unite Screenshot" src="https://user-images.githubusercontent.com/24927444/174683996-2b05f17d-588d-4e0d-9b86-10bb24b87f84.png">
 </a>
 <br>
 <br>
 <p> 
-<a href="https://the918collective.netlify.app/" target="_blank">
+<a href="https://ilovetea.herokuapp.com/" target="_blank">
 <img src="https://img.shields.io/badge/Website-gold??style=plastic"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> - An online showcase of a photograph collection.</p>
+<p><strong>Node.js, EJS, CSS</strong> - Create and display steeping instructions for the perfect cup of tea.</p>
 </div>
 </tr>
   
