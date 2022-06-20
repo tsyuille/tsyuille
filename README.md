@@ -44,7 +44,7 @@ Hi, I'm <strong>TaVon</strong>. A creative, full-stack software engineer with a 
 <img src="https://img.shields.io/badge/Website-gold??style=plastic"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> - Need some encouragement and motivation? Hit the button for an affirmation.</p>
+<p><strong>JavaScript, HTML5, CSS3, Node.js, Express</strong> - Need some encouragement and motivation? Hit the button for an affirmation.</p>
 </div> 
   
 <td width="50%">
