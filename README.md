@@ -38,12 +38,13 @@ Hi, I'm <strong>TaVon</strong>. A creative, full-stack software engineer with a 
 <img src="https://user-images.githubusercontent.com/24927444/168486242-92cef9cc-c9bf-4b55-82f4-a5e8e706505f.png" alt="Daily Affirmations" width="100%" />
 </a>
 <br>
+<br>
 <p>
 <a href="https://daily-affirmation.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Website-gold??style=plastic"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3, Node.js, Express</strong> - Need some encouragement and motivation? Hit the button for an affirmation.</p>
+<p><strong>JavaScript, HTML5, CSS3, Node.js, Express</strong> - Hit the button for some motivation & encouragement.</p>
 </div> 
   
 <td width="50%">
