@@ -60,7 +60,7 @@ Hi, I'm <strong>TaVon</strong>. A creative, full-stack software engineer with a 
 <img src="https://img.shields.io/badge/Website-gold??style=plastic"/>
 </a>
 </p>
-<p><strong>Node.js, EJS, CSS</strong> - Create and display steeping instructions for the perfect cup of tea.</p>
+<p><strong>Node.js, EJS, CSS, MongoDB</strong> - Create and display steeping instructions for the perfect cup of tea.</p>
 </div>
 </tr>
   
