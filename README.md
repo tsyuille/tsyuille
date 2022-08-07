@@ -82,19 +82,19 @@ Hi, I'm <strong>TaVon</strong>. A creative, full-stack software engineer with a 
 </div> 
   
 <td width="50%">
-<h3 align="center" color="white">Budget Calculator</h3>
+<h3 align="center" color="white">Todo List</h3>
 <div align="center" >  
-<a href="https://budgeting-calculator.netlify.app/">
-<img src="https://user-images.githubusercontent.com/24927444/168487361-d49bf5e2-9222-4941-b28e-aeefcb9134c4.png" alt="Budget Calculator" width="100%" />
+<a href="https://todo-app-tsy.herokuapp.com/">
+<img width="1436" alt="Screen Shot 2022-08-02 at 6 03 26 PM" src="https://user-images.githubusercontent.com/24927444/183310912-f97aa56a-b937-4b4f-bc64-371969c22ec4.png">
 </a>
 <br>
 <br>
 <p>
-<a href="https://budgeting-calculator.netlify.app/" target="_blank">
+<a href="https://todo-app-tsy.herokuapp.com/" target="_blank">
 <img src="https://img.shields.io/badge/Website-gold??style=plastic"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> - Select one of the budgeting methods, input monthly net income, and this calulator will allocate the income into the applicable categories.</p>
+<p><strong>React, React Hooks</strong> - Add, delete, edit, and mark todo list items complete.</p>
 </div> 
 </tr>
 </table>
