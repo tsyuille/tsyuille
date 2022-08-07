@@ -78,24 +78,9 @@ Hi, I'm <strong>TaVon</strong>. A creative, full-stack software engineer with a 
 <img src="https://img.shields.io/badge/Website-gold??style=plastic"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> - This recipe generator uses the API from The Meal DB, and generates a recipe or carousel of recipes based on user input.</p>
+<p><strong>JavaScript, HTML5, CSS3</strong> - This recipe generator uses the API from The Meal DB, and generates a recipe or carousel of recipes.</p>
 </div> 
 
-<h3 align="center" color="white">Recipe Generator</h3>
-<div align="center" >  
-<a href="https://generate-recipes.netlify.app/">
-<img src="https://user-images.githubusercontent.com/24927444/164442739-7d52a2dc-ad4e-4f0f-86fa-1ad23b49d5c0.png" alt="Recipe Generator" width="100%" />
-</a>
-<br>
-<br>
-<p>
-<a href="https://generate-recipes.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Website-gold??style=plastic"/>
-</a>
-</p>
-<p><strong>JavaScript, HTML5, CSS3</strong> - This recipe generator uses the API from The Meal DB, and generates a recipe or carousel of recipes based on user input.</p>
-</div> 
-  
 <td width="50%">
 <h3 align="center" color="white">Todo List</h3>
 <div align="center" >  
@@ -109,7 +94,7 @@ Hi, I'm <strong>TaVon</strong>. A creative, full-stack software engineer with a 
 <img src="https://img.shields.io/badge/Website-gold??style=plastic"/>
 </a>
 </p>
-<p><strong>React, React Hooks</strong> - Add, delete, edit, and mark todo list items complete.</p>
+<p><strong>React, React Hooks</strong> - Add, edit, and delete todo items. Items can be marked as complete (toggles on and off) when completed.</p>
 </div> 
 </tr>
 </table>
