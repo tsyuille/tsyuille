@@ -85,7 +85,7 @@ Hi, I'm <strong>TaVon</strong>. A creative, full-stack software engineer with a 
 <h3 align="center" color="white">Todo List</h3>
 <div align="center" >  
 <a href="https://todo-app-tsy.herokuapp.com/">
-<img width="1436" alt="Screen Shot 2022-08-02 at 6 03 26 PM" src="https://user-images.githubusercontent.com/24927444/183310912-f97aa56a-b937-4b4f-bc64-371969c22ec4.png">
+<img width="100%" alt="Screenshot of todo list app" src="https://user-images.githubusercontent.com/24927444/183310912-f97aa56a-b937-4b4f-bc64-371969c22ec4.png">
 </a>
 <br>
 <br>
