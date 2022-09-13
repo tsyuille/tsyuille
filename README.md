@@ -30,6 +30,41 @@ Hi, I'm <strong>TaVon</strong>. A creative, full-stack software engineer with a 
 <h3 align="center">Projects</h3>
 <div align="center">
 <table>
+  
+<tr>  
+<td width="50%">
+<h3 align="center" color="white">Sunday Dinner</h3>
+<div align="center" >  
+<a href="https://sunday-dinner.herokuapp.com/">
+<img width="100%" alt="Sunday Dinner login screen" src="https://user-images.githubusercontent.com/24927444/189788064-5816f4d1-7353-4b8e-b5e5-6aa837a7fddf.png">
+</a>
+<br>
+<br>
+<p>
+<a href="https://sunday-dinner.herokuapp.com/" target="_blank">
+<img src="https://img.shields.io/badge/Website-gold??style=plastic"/>
+</a>
+</p>
+<p><strong>JavaScript, EJS, Node.js, Express, MongoDB, Bootstrap</strong> - Sunday Dinner is a digital "recipe book" to carry along and honor the family traditions centered around food.</p>
+</div> 
+
+<td width="50%">
+<h3 align="center" color="white">Todo List</h3>
+<div align="center" >  
+<a href="https://todo-app-tsy.herokuapp.com/">
+<img width="100%" alt="Screenshot of todo list app" src="https://user-images.githubusercontent.com/24927444/183310912-f97aa56a-b937-4b4f-bc64-371969c22ec4.png">
+</a>
+<br>
+<br>
+<p>
+<a href="https://todo-app-tsy.herokuapp.com/" target="_blank">
+<img src="https://img.shields.io/badge/Website-gold??style=plastic"/>
+</a>
+</p>
+<p><strong>React, React Hooks</strong> - Add, edit, and delete todo items. Items can be marked as complete (toggles on and off) when completed.</p>
+</div> 
+</tr>  
+  
 <tr>
 <td width="50%">
 <h3 align="center" color="white">Daily Affirmations</h3>
@@ -62,40 +97,6 @@ Hi, I'm <strong>TaVon</strong>. A creative, full-stack software engineer with a 
 </p>
 <p><strong>Node.js, EJS, CSS, MongoDB</strong> - Create and display steeping instructions for the perfect cup of tea.</p>
 </div>
-</tr>
-  
-<tr>  
-<td width="50%">
-<h3 align="center" color="white">Recipe Generator</h3>
-<div align="center" >  
-<a href="https://generate-recipes.netlify.app/">
-<img src="https://user-images.githubusercontent.com/24927444/164442739-7d52a2dc-ad4e-4f0f-86fa-1ad23b49d5c0.png" alt="Recipe Generator" width="100%" />
-</a>
-<br>
-<br>
-<p>
-<a href="https://generate-recipes.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Website-gold??style=plastic"/>
-</a>
-</p>
-<p><strong>JavaScript, HTML5, CSS3</strong> - This recipe generator uses the API from The Meal DB, and generates a recipe or carousel of recipes.</p>
-</div> 
-
-<td width="50%">
-<h3 align="center" color="white">Todo List</h3>
-<div align="center" >  
-<a href="https://todo-app-tsy.herokuapp.com/">
-<img width="100%" alt="Screenshot of todo list app" src="https://user-images.githubusercontent.com/24927444/183310912-f97aa56a-b937-4b4f-bc64-371969c22ec4.png">
-</a>
-<br>
-<br>
-<p>
-<a href="https://todo-app-tsy.herokuapp.com/" target="_blank">
-<img src="https://img.shields.io/badge/Website-gold??style=plastic"/>
-</a>
-</p>
-<p><strong>React, React Hooks</strong> - Add, edit, and delete todo items. Items can be marked as complete (toggles on and off) when completed.</p>
-</div> 
 </tr>
 </table>
   
