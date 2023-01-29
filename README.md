@@ -35,14 +35,14 @@ Hi, I'm <strong>TaVon</strong>. A creative, full-stack software engineer with a 
 <td width="50%">
 <h3 align="center" color="white">Sunday Dinner</h3>
 <div align="center" >  
-<a href="https://sunday-dinner.herokuapp.com/">
+<!--<a href="https://sunday-dinner.herokuapp.com/">-->
 <img width="100%" alt="Sunday Dinner login screen" src="https://user-images.githubusercontent.com/24927444/189788064-5816f4d1-7353-4b8e-b5e5-6aa837a7fddf.png">
 </a>
 <br>
 <br>
 <p>
-<a href="https://sunday-dinner.herokuapp.com/" target="_blank">
-<img src="https://img.shields.io/badge/Website-gold??style=plastic"/>
+<!--<a href="https://sunday-dinner.herokuapp.com/" target="_blank">
+<img src="https://img.shields.io/badge/Website-gold??style=plastic"/>-->
 </a>
 </p>
 <p><strong>JavaScript, EJS, Node.js, Express, MongoDB, Bootstrap</strong> - Sunday Dinner is a digital "recipe book" to carry along and honor the family traditions centered around food.</p>
@@ -51,14 +51,14 @@ Hi, I'm <strong>TaVon</strong>. A creative, full-stack software engineer with a 
 <td width="50%">
 <h3 align="center" color="white">Todo List</h3>
 <div align="center" >  
-<a href="https://todo-app-tsy.herokuapp.com/">
+<!--<a href="https://todo-app-tsy.herokuapp.com/">-->
 <img width="100%" alt="Screenshot of todo list app" src="https://user-images.githubusercontent.com/24927444/183310912-f97aa56a-b937-4b4f-bc64-371969c22ec4.png">
 </a>
 <br>
 <br>
 <p>
-<a href="https://todo-app-tsy.herokuapp.com/" target="_blank">
-<img src="https://img.shields.io/badge/Website-gold??style=plastic"/>
+<!--<a href="https://todo-app-tsy.herokuapp.com/" target="_blank">
+<img src="https://img.shields.io/badge/Website-gold??style=plastic"/>-->
 </a>
 </p>
 <p><strong>React, React Hooks</strong> - Add, edit, and delete todo items. Items can be marked as complete (toggles on and off) when completed.</p>
@@ -69,14 +69,14 @@ Hi, I'm <strong>TaVon</strong>. A creative, full-stack software engineer with a 
 <td width="50%">
 <h3 align="center" color="white">Daily Affirmations</h3>
 <div align="center" >  
-<a href="https://daily-affirmation.netlify.app/">
+<!--<a href="https://daily-affirmation.netlify.app/">-->
 <img src="https://user-images.githubusercontent.com/24927444/168486242-92cef9cc-c9bf-4b55-82f4-a5e8e706505f.png" alt="Daily Affirmations" width="100%" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://daily-affirmation.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Website-gold??style=plastic"/>
+<!--<a href="https://daily-affirmation.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Website-gold??style=plastic"/>-->
 </a>
 </p>
 <p><strong>JavaScript, HTML5, CSS3, Node.js, Express</strong> - Hit the button for some motivation & encouragement.</p>
@@ -85,14 +85,14 @@ Hi, I'm <strong>TaVon</strong>. A creative, full-stack software engineer with a 
 <td width="50%">
 <h3 align="center" color="white">Tea Lovers Unite</h3>
 <div align="center" >  
-<a href="https://ilovetea.herokuapp.com/">
+<!--<a href="https://ilovetea.herokuapp.com/">-->
 <img width="100%" alt="Tea Lovers Unite Screenshot" src="https://user-images.githubusercontent.com/24927444/174683996-2b05f17d-588d-4e0d-9b86-10bb24b87f84.png">
 </a>
 <br>
 <br>
 <p> 
-<a href="https://ilovetea.herokuapp.com/" target="_blank">
-<img src="https://img.shields.io/badge/Website-gold??style=plastic"/>
+<!--<a href="https://ilovetea.herokuapp.com/" target="_blank">
+<img src="https://img.shields.io/badge/Website-gold??style=plastic"/>-->
 </a>
 </p>
 <p><strong>Node.js, EJS, CSS, MongoDB</strong> - Create and display steeping instructions for the perfect cup of tea.</p>
